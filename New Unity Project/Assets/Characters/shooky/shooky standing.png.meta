@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 77266bb613b24ea45b9761a23c1d143a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4135896773702033885
+    second: shooky standing_0
+  - first:
+      213: -5355418195442922386
+    second: shooky standing_1
+  - first:
+      213: 2609896076255070706
+    second: shooky standing_2
+  - first:
+      213: 5785895993554526144
+    second: shooky standing_3
+  - first:
+      213: 4256301462482742214
+    second: shooky standing_4
+  - first:
+      213: -2732507880120325737
+    second: shooky standing_5
+  - first:
+      213: 8862925416168446502
+    second: shooky standing_6
+  - first:
+      213: -3307509551672901103
+    second: shooky standing_7
+  - first:
+      213: 7701158115634554208
+    second: shooky standing_8
+  - first:
+      213: -3302360934080410222
+    second: shooky standing_9
+  - first:
+      213: -5603449909317669574
+    second: shooky standing_10
+  - first:
+      213: -5384497217272550817
+    second: shooky standing_11
+  - first:
+      213: -7398986515247020560
+    second: shooky standing_12
+  - first:
+      213: 6056688085855169211
+    second: shooky standing_13
+  - first:
+      213: 238525247356135162
+    second: shooky standing_14
+  - first:
+      213: -6792761538085215477
+    second: shooky standing_15
+  - first:
+      213: -7074022722685452368
+    second: shooky standing_16
+  - first:
+      213: 6175766403826754572
+    second: shooky standing_17
+  - first:
+      213: -1965899168820261165
+    second: shooky standing_18
+  - first:
+      213: 6077200219316866570
+    second: shooky standing_19
+  - first:
+      213: -3227264198223605378
+    second: shooky standing_20
+  - first:
+      213: -3366947118818319329
+    second: shooky standing_21
+  - first:
+      213: 2117602986266433316
+    second: shooky standing_22
+  - first:
+      213: 8523123946003364811
+    second: shooky standing_23
+  - first:
+      213: 7866426901001964347
+    second: shooky standing_24
+  - first:
+      213: -6305800198684912054
+    second: shooky standing_25
+  - first:
+      213: 3732803232086331573
+    second: shooky standing_26
+  - first:
+      213: 5204776532764190716
+    second: shooky standing_27
+  - first:
+      213: 6509875496989747820
+    second: shooky standing_28
+  - first:
+      213: 1405620415657599398
+    second: shooky standing_29
+  - first:
+      213: 3548411799039840040
+    second: shooky standing_30
+  - first:
+      213: -7689941657697716775
+    second: shooky standing_31
+  - first:
+      213: -2444191965622447607
+    second: shooky standing_32
+  - first:
+      213: 3062744669486617424
+    second: shooky standing_33
+  - first:
+      213: 8187524859481813604
+    second: shooky standing_34
+  - first:
+      213: 6284969737569049646
+    second: shooky standing_35
+  - first:
+      213: 1911861605064853186
+    second: shooky standing_36
+  - first:
+      213: -1144249623924796010
+    second: shooky standing_37
+  - first:
+      213: -9219484690459001306
+    second: shooky standing_38
+  - first:
+      213: 3337376608092402817
+    second: shooky standing_39
+  - first:
+      213: -2361710161703962726
+    second: shooky standing_40
+  - first:
+      213: -8323276653419358542
+    second: shooky standing_41
+  - first:
+      213: 5062640543029201806
+    second: shooky standing_42
+  - first:
+      213: 3400586968906525548
+    second: shooky standing_43
+  - first:
+      213: -8119708467981041052
+    second: shooky standing_44
+  - first:
+      213: -4264304097370411241
+    second: shooky standing_45
+  - first:
+      213: 7371497006691216223
+    second: shooky standing_46
+  - first:
+      213: -6708414803792267043
+    second: shooky standing_47
+  - first:
+      213: 3912627588076615189
+    second: shooky standing_48
+  - first:
+      213: -5661363970131143017
+    second: shooky standing_49
+  - first:
+      213: 6614742311385176433
+    second: shooky standing_50
+  - first:
+      213: 3289072213354424415
+    second: shooky standing_51
+  - first:
+      213: 435641395298618991
+    second: shooky standing_52
+  - first:
+      213: 3387921761359509475
+    second: shooky standing_53
+  - first:
+      213: -2148494075580590675
+    second: shooky standing_54
+  - first:
+      213: -5779338753283363230
+    second: shooky standing_55
+  - first:
+      213: 3595528849500273756
+    second: shooky standing_56
+  - first:
+      213: -1167451606769141619
+    second: shooky standing_57
+  - first:
+      213: -5780208553804512914
+    second: shooky standing_58
+  - first:
+      213: -4471200013526632020
+    second: shooky standing_59
+  - first:
+      213: -1551950037995539166
+    second: shooky standing_60
+  - first:
+      213: -4797242606057639590
+    second: shooky standing_61
+  - first:
+      213: 2923161494806367668
+    second: shooky standing_62
+  - first:
+      213: -5450789315927900060
+    second: shooky standing_63
+  - first:
+      213: -6341788317362991712
+    second: shooky standing_64
+  - first:
+      213: 8440813177254730450
+    second: shooky standing_65
+  - first:
+      213: 170488183846129008
+    second: shooky standing_66
+  - first:
+      213: -3829585430589011181
+    second: shooky standing_67
+  - first:
+      213: 4426849125771717256
+    second: shooky standing_68
+  - first:
+      213: 1613019510479220426
+    second: shooky standing_69
+  - first:
+      213: 4611529676317550414
+    second: shooky standing_70
+  - first:
+      213: -2529022566010440339
+    second: shooky standing_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shooky standing_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 548
+        width: 196
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e5ec71cc75a96c0800000000000000
+      internalID: -4135896773702033885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 548
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c06f4868bbda5b0800000000000000
+      internalID: -5355418195442922386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 548
+        width: 196
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98edd47a6383420800000000000000
+      internalID: 2609896076255070706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 196
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf5c2b40c1ab4050800000000000000
+      internalID: 5785895993554526144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 292
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb624811ab611b30800000000000000
+      internalID: 4256301462482742214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 292
+        width: 80
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e87b7f8e241ad0800000000000000
+      internalID: -2732507880120325737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a508d45bf6ffa70800000000000000
+      internalID: 8862925416168446502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooky standing_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 36
+        width: 80
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124351369d5912d0800000000000000
+      internalID: -3307509551672901103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
